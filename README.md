@@ -13,13 +13,13 @@ Faces recognition example using PCA and eigenfaces
 ###Output
 -----------
 ####average
-![image](doc/origin.png) ![image](doc/avg.jpg)
+![image](https://raw.github.com/irachex/face-recognition/master/doc/origin.png) ![image](https://raw.github.com/irachex/face-recognition/master/doc/avg.jpg)
 
 ####eigenfaces
-![image](doc/eigenfaces.png)
+![image](https://raw.github.com/irachex/face-recognition/master/doc/eigenfaces.png)
 
 ####rebuild
-origin ![image](doc/1.bmp)  rebuild ![image](doc/rebuild.jpg)
+origin ![image](https://raw.github.com/irachex/face-recognition/master/doc/1.bmp)  rebuild ![image](https://raw.github.com/irachex/face-recognition/master/doc/rebuild.jpg)
 
 ####face recognition
 correct / testcase ≈ 86% ~ 96%
